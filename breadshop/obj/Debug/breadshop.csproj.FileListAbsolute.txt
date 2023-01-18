@@ -1,0 +1,8 @@
+C:\Users\Luminous\source\repos\breadshop\breadshop\bin\Debug\breadshop.exe.config
+C:\Users\Luminous\source\repos\breadshop\breadshop\bin\Debug\breadshop.exe
+C:\Users\Luminous\source\repos\breadshop\breadshop\bin\Debug\breadshop.pdb
+C:\Users\Luminous\source\repos\breadshop\breadshop\obj\Debug\breadshop.csproj.AssemblyReference.cache
+C:\Users\Luminous\source\repos\breadshop\breadshop\obj\Debug\breadshop.csproj.SuggestedBindingRedirects.cache
+C:\Users\Luminous\source\repos\breadshop\breadshop\obj\Debug\breadshop.csproj.CoreCompileInputs.cache
+C:\Users\Luminous\source\repos\breadshop\breadshop\obj\Debug\breadshop.exe
+C:\Users\Luminous\source\repos\breadshop\breadshop\obj\Debug\breadshop.pdb
